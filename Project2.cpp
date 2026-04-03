@@ -1,5 +1,5 @@
 ﻿#include "pch.h"
-#include <stdio.h>12
+#include <stdio.h>
 #define _USE_INIT_WINDOW_
 #define _CRT_SECURE_NO_WARNINGS
 #include "tipsware.h"
